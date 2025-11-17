@@ -6,11 +6,11 @@ class Program
     {
         Console.WriteLine("Hello, World!");
 
-        int a = 10;
+        int a = 11;
 
-        for (int i = 0; i < a ; i++)
+        for (int i = 1; i < a ; i++)
         {
-            Console.WriteLine("Hello from Branch B!");
+            Console.WriteLine("Hello from Branch Nikita!");
         }
     }
 }
